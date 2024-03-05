@@ -1,1 +1,1 @@
-### This is repo for sample gcp project
+### This is repo for sample gcp projects
